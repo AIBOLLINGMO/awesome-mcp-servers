@@ -145,6 +145,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://eustore.dev/favicon.ico" height="14"/> [eustore.dev](https://github.com/AIBOLLINGMO/eustore-mcp-server) - Autonomous infrastructure for AI agents: S3 storage, vector database, and MCP server hosting. EU-hosted, GDPR-compliant. Free tier available.
+
 ## 🗄️ <a name="databases"></a>Databases
 
 > Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
